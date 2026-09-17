@@ -25,5 +25,3 @@ python gen_labels.py --dataset fakesv
 python main.py --dataset fakesv --epoches 20 --seed 2024 --use_attrib 1 
 ```
 
-# RAMoE
-# RAMoE
