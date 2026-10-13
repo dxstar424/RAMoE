@@ -1,6 +1,6 @@
 # RAMoE: Role-Aware Mixture-of-Experts for Short-Video Fake News Detection
 
-Code for the method RAMoE
+Code for the RAMoE method 
 
 ## Training
 
